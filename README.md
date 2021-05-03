@@ -1,6 +1,6 @@
 # Zulu - A Motor Part Shop Software
 
-This project was undertaken by [Ashutosh Kumar Singh](https://github.com/ashutoshaks), [Vanshita Garg](https://github.com/vanshitagarg01) and [Suhas Jain](https://github.com/suhas142) for the course Software Engineering Laboratory (CS29006).
+This project was undertaken by [Ashutosh Kumar Singh](https://github.com/ashutoshaks), [Vanshita Garg](https://github.com/vanshitagarg01) and [Suhas Jain](https://github.com/suhas4122) for the course Software Engineering Laboratory (CS29006).
 
 ## Objective
 
